@@ -1,2 +1,2 @@
-# Master-s-thesis
+# Master thesis
 Master's thesis and abstract
